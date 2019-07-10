@@ -7,10 +7,12 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Recent Posts"
+title = "Twitter Activity"
 subtitle = ""
 
 [content]
+<a class="twitter-timeline" data-theme="dark" href="https://twitter.com/v_grigorovsky?ref_src=twsrc%5Etfw">Tweets by v_grigorovsky</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
   # Page type to display. E.g. post, talk, or publication.
   page_type = "post"
   
